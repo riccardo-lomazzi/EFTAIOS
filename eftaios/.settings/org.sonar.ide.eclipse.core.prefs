@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+extraProperties=sonar.language\=java\r\nsonar.host.url\=http\://localhost\:9000/\r\nsonar.java.binaries\=C\:\\Users\\Andrea\\Desktop\\Andrea\\Esercizi programmazione\\ProgettoINGSOFT\\maven.1430252004413\\eftaios
+lastAnalysisDate=1435331144368
+projectKey=Lomazzi_Jegher\:eftaios
+serverUrl=http\://localhost\:9000
+version=2
