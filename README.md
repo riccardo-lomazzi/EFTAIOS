@@ -1,5 +1,4 @@
-# EFTAIOS
-Escape the Aliens from Outer Space - Java version (Software Engineering 1)
+# Escape the Aliens from Outer Space - Java version (Software Engineering 1)
 
 By Andrea Jegher & Riccardo Lomazzi
 
